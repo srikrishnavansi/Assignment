@@ -1,4 +1,4 @@
-# AI-Powered Document Summarization Agent with Gemini 1.5 Flash
+# AI-Agent Implementation
 
 ## Agent Architecture Overview
 
